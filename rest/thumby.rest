@@ -1,0 +1,5 @@
+# -*- restclient -*-
+#
+GET http://localhost:8080/api/ping
+User-Agent: Emacs Restclient
+Accept-Encoding: compress, gzip
